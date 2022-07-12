@@ -22,3 +22,5 @@
 8. Return the First Element in an Array https://edabit.com/challenge/QaApgtePE6QrCZ64o
 9. Upvotes vs Downvotes https://edabit.com/challenge/654ABGmNS5GqscE8C
 10. Reverse an Array https://edabit.com/challenge/kJQYTCCWSnzhXG9dn
+
+#### spresti toliau savo nuoziura ir lygiu (spresti daug)
